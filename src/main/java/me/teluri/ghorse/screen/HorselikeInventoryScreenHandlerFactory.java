@@ -1,4 +1,4 @@
-package me.teluri.screen;
+package me.teluri.ghorse.screen;
 
 import net.fabricmc.fabric.api.screenhandler.v1.ExtendedScreenHandlerFactory;
 import net.minecraft.entity.player.PlayerEntity;

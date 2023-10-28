@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "me.teluri.mixin.client",
+	"package": "me.teluri.ghorse.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
 		"ExampleClientMixin"

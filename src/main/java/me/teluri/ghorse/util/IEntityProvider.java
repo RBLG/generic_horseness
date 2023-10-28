@@ -1,4 +1,4 @@
-package me.teluri.util;
+package me.teluri.ghorse.util;
 
 import net.minecraft.entity.Entity;
 

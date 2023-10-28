@@ -1,4 +1,4 @@
-package me.teluri.screen;
+package me.teluri.ghorse.screen;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;

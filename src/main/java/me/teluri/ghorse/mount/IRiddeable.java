@@ -1,7 +1,7 @@
-package me.teluri.mount;
+package me.teluri.ghorse.mount;
 
-import me.teluri.util.IEntityProvider;
-import me.teluri.util.ISideAware;
+import me.teluri.ghorse.util.IEntityProvider;
+import me.teluri.ghorse.util.ISideAware;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.ItemStack;

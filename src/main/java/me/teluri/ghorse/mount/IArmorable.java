@@ -1,8 +1,8 @@
-package me.teluri.mount;
+package me.teluri.ghorse.mount;
 
-import me.teluri.util.IHasInventory;
-import me.teluri.util.ISideAware;
-import me.teluri.util.ItemStackHelper;
+import me.teluri.ghorse.util.IHasInventory;
+import me.teluri.ghorse.util.ISideAware;
+import me.teluri.ghorse.util.ItemStackHelper;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.ActionResult;
 
