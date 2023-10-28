@@ -1,4 +1,4 @@
-package me.teluri.mixin.client;
+package me.teluri.mixin.ghorse.client;
 
 import net.minecraft.client.MinecraftClient;
 import org.spongepowered.asm.mixin.Mixin;

@@ -1,4 +1,4 @@
-package me.teluri.client;
+package me.teluri.ghorse.client;
 
 import net.fabricmc.api.ClientModInitializer;
 

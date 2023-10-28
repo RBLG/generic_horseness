@@ -1,4 +1,4 @@
-package me.teluri.client.util;
+package me.teluri.client.ghorse.util;
 
 public final class ScreenHelper {
 

@@ -2,24 +2,24 @@
 	"schemaVersion": 1,
 	"id": "generic_horseness",
 	"version": "${version}",
-	"name": "generic_horseness",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Generic horseness lib",
+	"description": "library mod to make implementing horse-like functionnality on a mob easier",
 	"authors": [
-		"Me!"
+		"Teluri"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "todo",
+		"sources": "todo"
 	},
-	"license": "CC0-1.0",
+	"license": "todo",
 	"icon": "assets/generic_horseness/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"me.teluri.Generic_horseness"
+			"me.teluri.ghorse.Generic_horseness"
 		],
 		"client": [
-			"me.teluri.Generic_horsenessClient"
+			"me.teluri.ghorse.Generic_horsenessClient"
 		]
 	},
 	"mixins": [
