@@ -17,7 +17,6 @@ public class GenericHorseness implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		confs = Config.readConf();
-		confs=confs;
 	}
 
 	protected static HashMap<String, MountConf> confs = new HashMap<>();
