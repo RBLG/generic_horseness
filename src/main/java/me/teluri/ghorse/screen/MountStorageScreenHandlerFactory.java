@@ -8,7 +8,7 @@ import net.minecraft.screen.ScreenHandler;
 import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.text.Text;
 
-public class HorselikeInventoryScreenHandlerFactory implements ExtendedScreenHandlerFactory {
+public class MountStorageScreenHandlerFactory implements ExtendedScreenHandlerFactory {
 
 	@Override
 	public Text getDisplayName() {

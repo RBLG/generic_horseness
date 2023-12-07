@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"me.teluri.ghorse.Generic_horseness"
+			"me.teluri.ghorse.GenericHorseness"
 		],
 		"client": [
-			"me.teluri.ghorse.Generic_horsenessClient"
+			"me.teluri.ghorse.client.GenericHorsenessClient"
 		]
 	},
 	"mixins": [
